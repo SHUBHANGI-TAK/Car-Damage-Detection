@@ -1,6 +1,4 @@
-# Final-Project
-
-## Car Damage Detection
+# Car Damage Detection
 
 ### Model: detects type of damage on car with an input of car image
 ### Algorithm: Convolutional Neural Network
